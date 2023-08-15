@@ -14,4 +14,4 @@ while(bolum != 0):
     onAltilik = onAltilik + str(kalan)
 print(onAltilik[::-1])
 
-#i loved this solution -_-
+# -_-
